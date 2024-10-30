@@ -1,4 +1,4 @@
-# State Machine Framework (SFM) for Unity
+# Simple State Machine (SFM) for Unity
 
 ## What I'm currently working on in this repo
 
