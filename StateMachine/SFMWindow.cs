@@ -182,7 +182,7 @@ using StateMachine;
 
 public class {stateMachineName}StateMachine : BaseStateMachine
 {{
-    public void SwitchState<T>(T state) where T : {baseStateName}
+    public void SwitchState({baseStateName} state)
     {{
         if (state is {baseStateName})
         {{
